@@ -5,7 +5,7 @@
 ## QA ENGINEER, QA AUTOMATION ENGINEER
 imresquer@gmail.com | https://www.linkedin.com/in/mikhail-iakovenko-b92268239/ | discord: Mikhail Yakovenko (@yakovenko79)
 
-As a professional, I always clearly understand what I'm doing and always get great results as you can see from my achievements below. Fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web applications
+As a professional, I always clearly understand what I'm doing and always get great results as you can see from my achievements below. I have already worked in several companies as a full stack engineer, where I performed manual testing, and also created several automated testing projects. from scratch. Also, fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web applications. Ready for business trips, ready for relocation.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -24,8 +24,8 @@ functional, non – functional testing
 * Testing API level
 
 **Achievments:**
-* Participating in creating the QA process
-* Creating autotest framework for autotesting UI and API level https://github.com/yakovenko79/Sanplex
+* Participated in creating the QA process
+* Created autotest framework for autotesting UI and API level https://github.com/yakovenko79/Sanplex
 * Work is always completed ahead of schedule
 
 ### March 2024 – June 2024 | Startupium as QA Specialist  
@@ -63,5 +63,4 @@ I graduated from this school where I studied with mentors with extensive experie
 * Wrote and defended a thesis on databases
 
 ## KNOWLEDGE, SKILLS AND ABILITIES
-Test design techniques, test documentation, API testing (Postman, DevTools, HTTP methods, REST); SQL (joins, nested queries); Understanding of SDLC, STLC; Linux (commands, streams), Python + Selenium Framework (automation UI testing), requests library, Appium, Robot Framework, Git (branches), Docker (images, containers), locust  
-English B1
+test design techniques, test documentation, API testing (Postman, DevTools, HTTP methods, REST); SQL (joins, nested queries); Git (branching); Understanding of SDLC, STLC; Linux (commands, streams), Python + Selenium + Pytest (automation UI testing), requests library, Robot Framework, Java + Appium + JUnit, Playwright, Git (branches, repos), Docker (images, containers), Jmeter, locust (performance testing), Confluence, Jira, Yandex Wiki, Zephyr Scale.
