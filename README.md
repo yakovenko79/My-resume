@@ -2,7 +2,7 @@
 
 
 ## QA ENGINEER, QA AUTOMATION ENGINEER
-imresquer@gmail.com | https://www.linkedin.com/in/mikhail-iakovenko-b92268239/ | discord: Mikhail Yakovenko (@yakovenko79)
+imresquer@gmail.com | https://www.linkedin.com/in/mikhail-iakovenko-b92268239/ | discord: Mikhail Yakovenko (@yakovenko79) | telegram: @imresquer
 
 As a professional, I always clearly understand what I'm doing and always get great results as you can see from my achievements below. I have already worked in several companies as a full stack engineer, where I performed manual testing, and also created several automated testing projects. from scratch. Also, fields of my expertise: test design methods, competent test coverage, troubleshooting 3-tier web applications. Ready for business trips, ready for relocation.
 
