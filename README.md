@@ -72,4 +72,4 @@ Achievments: Course attestatioon grade 96/100, during the internship acted as a 
 * Wrote and defended a thesis on databases
 
 ## KNOWLEDGE, SKILLS AND ABILITIES
-test design techniques, test documentation, API testing (Postman, DevTools, HTTP methods, REST); SQL (joins, nested queries); Git (branching); Understanding of SDLC, STLC; Linux (commands, streams), Python + Selenium + Pytest (automation UI testing), requests library, Robot Framework, Java + Appium + JUnit, Playwright, Git (branches, repos), Docker (images, containers), Jmeter, locust (performance testing), Confluence, Jira, Yandex Wiki, Zephyr Scale.
+test design techniques, test documentation, API testing (Postman, DevTools, HTTP methods, REST); SQL (MySQL, PostgreSQL, DBeaver, Workbench); Understanding of SDLC, STLC; Linux (commands, streams), Python + Selenium + Pytest (automation UI testing), requests library, Robot Framework, Java + Appium + JUnit, Playwright, C# + NUnit, Git (branches, repos, Pull Requests), Github Actions, Allure, Docker (images, containers), Jmeter, locust (performance testing), Confluence, Jira, Yandex Wiki, Zephyr Scale.
