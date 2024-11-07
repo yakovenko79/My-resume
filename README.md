@@ -9,7 +9,15 @@ As a professional, I always clearly understand what I'm doing and always get gre
 
 ## PROFESSIONAL EXPERIENCE
 
-### May 2024 – present time | Dofamin(NL) as QA Specialist
+### September 2024 - present time | byTalent as QA Specialist
+* Manual testsing API and Database (Swagger, PostgreSQL)
+* Automation testing: Development unit tests and integration tests (C#, Visual Studio, NUnit)
+
+**Achievments:**
+* In 2 weeks I switched to C# and started writing unit and integration tests
+* My work sped up development time because no developer resources were spent on writing unit tests and improved the quality of the product because I also performed manual integration testing of the backend
+
+### May 2024 – present time (frozen project) | Dofamin(NL) as QA Specialist
 *	Automation mobile testing UI, API level
 *	Manual mobile testing 
 *	Load testing
