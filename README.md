@@ -1,7 +1,7 @@
 # MICHAEL IAKOVENKO
 
 
-## QA ENGINEER, QA AUTOMATION ENGINEER
+## SOFTWARE QUALITY ASSURANCE ENGINEER
 imresquer@gmail.com | https://www.linkedin.com/in/mikhail-iakovenko/ | discord: Mikhail Yakovenko (@yakovenko79) |  
 telegram: @imresquer | WhatsApp +37477330527 |
 
