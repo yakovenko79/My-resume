@@ -22,7 +22,7 @@ As a professional, I always clearly understand what I'm doing and always get gre
 * In 2 weeks I switched to C# and started writing unit and integration tests
 * My work sped up development time because no developer resources were spent on writing unit tests and improved the quality of the product because I also performed manual integration testing of the backend
 
-### May 2024 – present time (frozen project) | Dofamin(NL) as QA Specialist
+### May 2024 – September 2024 (frozen project) | Dofamin(NL) as Software QA Engineer
 *	Automation mobile testing UI, API level
 *	Manual mobile testing 
 *	Load testing
@@ -31,7 +31,7 @@ As a professional, I always clearly understand what I'm doing and always get gre
 * Created Automation QA project for main user scenarios.
 * Using Jmeter, Locust performed load testing
 
-### March 2024 – June 2024 | Sanplex(US) as QA Specialist  
+### March 2024 – June 2024 | Sanplex(US) as Software QA Engineer 
 functional, non – functional testing
 * Testing UI level
 * Testing API level
@@ -41,7 +41,7 @@ functional, non – functional testing
 * Created autotest framework for autotesting UI and API level https://github.com/yakovenko79/Sanplex
 * Work is always completed ahead of schedule
 
-### March 2024 – June 2024 | Startupium as QA Specialist  
+### March 2024 – June 2024 | Startupium as Software QA Engineer  
 testing of 3 – tier application
 * Testing UI level
 * Testing API level
