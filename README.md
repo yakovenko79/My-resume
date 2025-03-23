@@ -67,6 +67,10 @@ testing of 3 – tier application
 Successfully passed the entrance exams (5 people per 1 place). I graduated from this school where I studied with mentors with extensive experience (more than 10 years) in the relevant fields. I have studied and practiced such disciplines as testing theory, testing documentation, 3-tier web applications troubleshooting (Linux commands, networks, protocols, test design techniques, bug localization on all the levels of the app), testing API, UI testing, database testing, Git, Docker, Agile, BDD (Gherkin scenarios), DevTools  
 Achievments: Course attestatioon grade 96/100, during the internship acted as a tech lead.
 
+### 2023 - 2024 - RedRover School
+* Python AQA course
+* Java AQA course
+
 ### 2022 – 2023 – STEPIK 
   I have already completed several courses on manual and automated testing.
 
