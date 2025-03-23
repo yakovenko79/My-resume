@@ -51,7 +51,7 @@ testing of 3 – tier application
 * Participated in creating the QA process
 * Creating autotest framework for autotesting UI and API level https://github.com/yakovenko79/Startupium_autotest 
 
-### June 2023 – present time | Yandex Crowd as Voice assistant data tagging specialist.
+### June 2023 – February 2025 | Yandex Crowd as Voice assistant data tagging specialist.
 * Checking the correctness of the voice assistant's responses
 * Analysis of voice assistant responses
 * Writing more relevant search scenarios for the voice assistant
