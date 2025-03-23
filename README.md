@@ -9,7 +9,12 @@ As a professional, I always clearly understand what I'm doing and always get gre
 
 ## PROFESSIONAL EXPERIENCE
 
-### September 2024 - present time | byTalent as QA Specialist
+### February 2025 - present time | Yandex as Software QA Engineer
+* Manual testing UI and API
+* Regression testing
+* Bugs localization
+
+### September 2024 - present time | byTalent as Software QA Engineer
 * Manual testsing API and Database (Swagger, PostgreSQL)
 * Automation testing: Development unit tests and integration tests (C#, Visual Studio, NUnit)
 
